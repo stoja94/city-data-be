@@ -28,10 +28,13 @@ Prima di iniziare, assicurati di avere i seguenti strumenti installati e configu
 ## Installazione
 
 1. **Installa dipendenze**
+    ```bash
    npm install
-
+    ```
 2. **Avvia il server**
+    ```bash
    npm start
+   ```
 
 I dati visualizzati su questo sito sono forniti a scopo dimostrativo e di test. Essi non sono di proprietà dell'autore, ma sono utilizzati a fini illustrativi e non commerciali. Nel caso si desideri accedere ai dati completi, si prega di visitare il sito ufficiale: geoportale.cartografia.agenziaentrate.gov.it, dove è possibile trovare tutte le informazioni pertinenti.
 
